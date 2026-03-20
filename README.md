@@ -13,8 +13,8 @@ I'm just getting started as an engineer, but I bring a strong foundation in crea
 
 I'm currently building skills in:
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp; `Fundamentals` · `Scripting` · `Automation`
-- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) &nbsp; `Embedded Systems` · `Sensors` · `Microcontrollers`
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp; 
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) &nbsp; 
 
 I also have growing experience with:
 
