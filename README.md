@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Stella 👋
 
-<!--
-**appiokstella/appiokstella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ABOUT ME
 
-Here are some ideas to get you started:
+I'm an engineering student with a passion for building systems that sit at the intersection of hardware and intelligence.
+I'm curious, detail-oriented, and driven by engineering that solves problems you can see and feel in the real world. I believe the best technology is built with people in mind, and I'm here to learn, build, and contribute.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## EXPERIENCE
+
+I'm just getting started as an engineer, but I bring a strong foundation in creativity and problem-solving from my background in video editing.
+
+I'm currently building skills in:
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp; `Fundamentals` · `Scripting` · `Automation`
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) &nbsp; `Embedded Systems` · `Sensors` · `Microcontrollers`
+
+I also have growing experience with:
+
+- **Robotics** &nbsp; `Autonomous Systems` · `Mechanical Design` · `Control`
+- **IoT** &nbsp; `Smart Devices` · `Sensor Integration` · `Connected Systems`
+- **AI / ML** &nbsp; `Computer Vision` · `Data Processing` · `Pattern Recognition`
+  
+---
+
+## INTERESTS
+
+The things that genuinely excite me:
+
+- **Robotics** — machines that sense, think, and act
+- **IoT & Smart Systems** — connecting the physical and digital world
+- **Artificial Intelligence** — teaching machines to be useful
+- **Hardware & Electronics** — getting hands-on with the real world
+
+---
+
+## REACH OUT
+
+I'm always open to connecting with you, whether you're a fellow student, a researcher, or someone building something interesting.
+
+- **Email** — [appiokstella@gmail.com](mailto:appiokstella@gmail.com)
+---
+
+Open to collaborations & internships
