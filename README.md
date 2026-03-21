@@ -2,16 +2,16 @@
 
 ## ABOUT ME
 
-I'm an engineering student with a passion for building systems that sit at the intersection of hardware and intelligence.
-I'm curious, detail-oriented, and driven by engineering that solves problems you can see and feel in the real world. I believe the best technology is built with people in mind, and I'm here to learn, build, and contribute.
+I am an engineering student with a passion for building systems that sit at the intersection of hardware and intelligence.
+I am curious, detail-oriented, and driven by engineering that solves problems you can see and feel in the real world. The best technology is built with people in mind, and I am here to learn, build, and contribute.
 
 ---
 
 ## EXPERIENCE
 
-I'm just getting started as an engineer, but I bring a strong foundation in creativity and problem-solving from my background in video editing.
+I am just getting started as an engineer, but I bring a strong foundation in creativity and problem-solving from my background in video editing.
 
-I'm currently building skills in:
+I am currently building skills in:
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp; `Fundamentals` · `Scripting` · `Automation`
 - ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) &nbsp;  `Embedded Systems` · `Sensors` · `Microcontrollers`
@@ -37,7 +37,7 @@ The things that genuinely excite me:
 
 ## REACH OUT
 
-I'm always open to connecting with you, whether you're a fellow student, a researcher, or someone building something interesting.
+I am always open to connecting with you, whether you're a fellow student, a researcher, or someone building something interesting.
 
 - **Email** — [appiokstella@gmail.com](mailto:appiokstella@gmail.com)
 ---
