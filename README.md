@@ -9,7 +9,7 @@ I am curious, detail-oriented, and driven by engineering that solves problems yo
 
 ## EXPERIENCE
 
-I am just getting started as an engineer, but I bring a strong foundation in creativity and problem-solving from my background in video editing.
+I am just getting started as an engineer, but I bring a strong foundation in creativity and problem-solving from my background in computer programming and electronics.
 
 I am currently building skills in:
 
