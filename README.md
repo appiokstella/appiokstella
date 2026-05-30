@@ -31,6 +31,7 @@ The things that genuinely excite me:
 - **Robotics** — machines that sense, think, and act
 - **IoT & Smart Systems** — connecting the physical and digital world
 - **Artificial Intelligence** — teaching machines to be useful
+- **Machine Learning** — making computers think
 - **Hardware & Electronics** — getting hands-on with the real world
 
 ---
