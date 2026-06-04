@@ -43,4 +43,5 @@ I am always open to connecting with you, whether you're a fellow student, a rese
 - **Email** — [appiokstella@gmail.com](mailto:appiokstella@gmail.com)
 ---
 
-Open to collaborations & internships
+Open to collaborations 
+
