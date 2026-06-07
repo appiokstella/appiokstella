@@ -15,12 +15,14 @@ I am currently building skills in:
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp; `Fundamentals` · `Scripting` · `Automation`
 - ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) &nbsp;  `Embedded Systems` · `Sensors` · `Microcontrollers`
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) &nbsp; `Array Operations` · `Linear Algebra` · `Data Manipulation`
 
 I also have growing experience with:
 
 - **Robotics** &nbsp; `Autonomous Systems` · `Mechanical Design` · `Control`
 - **IoT** &nbsp; `Smart Devices` · `Sensor Integration` · `Connected Systems`
 - **AI / ML** &nbsp; `Computer Vision` · `Data Processing` · `Pattern Recognition`
+- **Tools** &nbsp; `Git` · `GitHub` · `VS Code` · `Jupyter`
   
 ---
 
