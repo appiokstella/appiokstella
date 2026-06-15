@@ -16,6 +16,7 @@ I am currently building skills in:
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp; `Fundamentals` · `Scripting` · `Automation`
 - ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) &nbsp;  `Embedded Systems` · `Sensors` · `Microcontrollers`
 - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) &nbsp; `Array Operations` · `Linear Algebra` · `Data Manipulation`
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) &nbsp; `Data Analysis` · `DataFrames` · `Data Cleaning`
 
 I also have growing experience with:
 
