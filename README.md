@@ -18,7 +18,7 @@ My current skills are in:
 - ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) &nbsp; `Array Operations` · `Linear Algebra` · `Data Manipulation`
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) &nbsp; `Data Analysis` · `DataFrames` · `Data Cleaning`
 
-I also have growing experience with:
+I also have growing experience and interests in:
 
 - **Robotics** &nbsp; `Autonomous Systems` · `Mechanical Design` · `Control`
 - **IoT** &nbsp; `Smart Devices` · `Sensor Integration` · `Connected Systems`
