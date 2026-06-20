@@ -46,4 +46,5 @@ I am always open to connecting with you, whether you're a fellow student, a rese
 ---
 
 Open to collaborations 
+[![Stella Nyamekye Anyebayaaka Appiok profile views](https://u8views.com/api/v1/github/profiles/266314976/views/day-week-month-total-count.svg)](https://u8views.com/github/appiokstella)
 
