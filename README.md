@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## About Me
 
 I'm a Mechatronics Engineering student passionate about building intelligent
@@ -25,19 +23,15 @@ I also actively passionate to open source  because I believe the best way to
 grow as an engineer is to learn in public and give back to the communities
 that teach you.
 
----
 
 ## 🚀 Current Focus
 
----
 - Studying Mechatronics Engineering
 - Building Python projects and automation tools daily
 - Learning Machine Learning and Data Science
 - Exploring Robotics and Embedded Systems with Arduino & ESP32
 - Developing projects that combine hardware and software
 - Contributing to open source projects
----
----
 
 ## 🛠️ Technical Skills
 
@@ -64,36 +58,26 @@ that teach you.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
-
 ## 🔬 Areas of Interest
 
-| | |
-|---|---|
-| 🤖 **Robotics** | Autonomous systems, sensing, and control |
-| 🌐 **IoT** | Smart devices and connected systems |
-| 🧠 **AI** | Intelligent software and automation |
-| 📊 **Machine Learning** | Data-driven decision making |
-| ⚡ **Embedded Systems** | Bringing software into the physical world |
+<div align="center"> 
+  
+🤖 **Robotics** • 🌐 **Internet of Things (IoT)** • 🧠 **Artificial Intelligence** 📊 **Machine Learning** • ⚡ **Embedded Systems** 
 
----
+</div>
 
-## 📁 Featured Repos
+## 📁Recent Repos
 
 🐍 **[21 Python Projects](https://github.com/appiokstella/python-mastery-journey)** — A collection of 21 Python projects from beginner to advanced, documented daily with what I learned from each one.
 
----
+## 🌱 My Philosophy
 
-## 🌱 How I Learn
-
-I believe in learning by doing and documenting the journey honestly —
+I believe in learning by doing and documenting the journey honestly,
 including the bugs, the confusion, and the breakthroughs. Every project
 folder includes a written reflection on what worked, what was hard, and
 what I would build next.
 
 I'd rather show consistent, honest progress than a polished but empty profile.
-
----
 
 ## 📈 GitHub Stats
 
