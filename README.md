@@ -58,13 +58,17 @@ that teach you.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+
+
 ## 🔬 Areas of Interest
 
-<div align="center"> 
-  
-🤖 **Robotics** • 🌐 **Internet of Things (IoT)** • 🧠 **Artificial Intelligence** 📊 **Machine Learning** • ⚡ **Embedded Systems** 
+> 🤖 **Robotics** — Autonomous systems, sensing, and control
+> 🌐 **IoT** — Smart devices and connected ecosystems
+> 🧠 **AI** — Intelligent software and automation
+> 📊 **Machine Learning** — Data-driven insights and prediction
+> ⚡ **Embedded Systems** — Engineering where hardware meets software
 
-</div>
+
 
 ## 📁Recent Repos
 
