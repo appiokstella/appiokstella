@@ -98,37 +98,28 @@ I'd rather show consistent, honest progress than a polished but empty profile.
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=appiokstella&show_icons=true&theme=default&hide_border=true&title_color=1A3A5C&icon_color=C9A84C)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=appiokstella&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appiokstella&layout=compact&hide_border=true&title_color=1A3A5C)
-
-</div>
-
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=appiokstella&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=F0C674"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=appiokstella&theme=github-dark-blue&hide_border=true"/> <br><br>
+</div> 
 
 ## 🌟 What I Believe
 
 The most impactful technology happens where software, hardware, and human
 need intersect. I want to be the kind of engineer who doesn't just understand
-technology — but builds things that create real value for real people.
+technology but builds things that create real value for real people.
 
 I'm building toward a future in robotics and AI, with a long-term vision of
-creating technology that solves problems close to home — starting in Ghana,
-and going as far as the work demands.
+creating technology that solves problems.
 
----
 
 ## 🤝 Connect With Me
 
-<!-- <div align="center"> -->
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:appiokstella@gmail.com)]
-[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)]
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:appiokstella@gmail.com)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 
-<!-- </div> -->
+</div>
 
 <!-- <div align="center">
 
