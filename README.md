@@ -19,7 +19,7 @@ I learn by building through combining programming, electronics, and data to solv
 real problems. Every project I push is a step toward becoming the kind of
 engineer who builds things that matter.
 
-I also actively passionate to open source  because I believe the best way to
+I also passionate about contributing to open source projects because I believe the best way to
 grow as an engineer is to learn in public and give back to the communities
 that teach you.
 
@@ -62,11 +62,11 @@ that teach you.
 
 ## 🔬 Areas of Interest
 
-> 🤖 **Robotics** — Autonomous systems, sensing, and control
-> 🌐 **IoT** — Smart devices and connected ecosystems
-> 🧠 **AI** — Intelligent software and automation
-> 📊 **Machine Learning** — Data-driven insights and prediction
-> ⚡ **Embedded Systems** — Engineering where hardware meets software
+- 🤖 **Robotics** — Autonomous systems, sensing, and control
+- 🌐 **IoT** — Smart devices and connected ecosystems
+- 🧠 **AI** — Intelligent software and automation
+- 📊 **Machine Learning** — Data-driven insights and prediction
+- ⚡ **Embedded Systems** — Engineering where hardware meets software
 
 
 
