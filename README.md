@@ -28,7 +28,7 @@ grow as an engineer is to learn in public and give back to the communities that 
 
 - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) &nbsp; `Data Analysis` · `DataFrames` · `Data Cleaning`
 
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white) &nbsp; `Data Visualization` · `Plotting` · `Insight Generation`
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) &nbsp;  `Data Visualization` · `Plotting` · `Insight Generation`
 
 - ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) &nbsp; `Interactive Computing` · `Prototyping` · `Data Exploration`
 
