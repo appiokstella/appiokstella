@@ -1,8 +1,4 @@
-<!-- <div align="center"> -->
-
 # Hi, I'm Stella 👋
-
-### Mechatronics Engineer in Training · Building at the Intersection of Hardware & Intelligence
 
 ![Profile Views](https://komarev.com/ghpvc/?username=appiokstella&color=1A3A5C&style=flat)
 
@@ -12,87 +8,87 @@
 
 I'm a Mechatronics Engineering student passionate about building intelligent
 systems that bridge hardware and software. My interests sit at the intersection
-of **Robotics, AI, Embedded Systems**, and the technologies shaping the future
-of engineering.
+of **Robotics, AI**, and the technologies shaping the future of engineering.
 
 I learn by building through combining programming, electronics, and data to solve
 real problems. Every project I push is a step toward becoming the kind of
 engineer who builds things that matter.
 
 I also passionate about contributing to open source projects because I believe the best way to
-grow as an engineer is to learn in public and give back to the communities
-that teach you.
+grow as an engineer is to learn in public and give back to the communities that teach you.
 
-
-## 🚀 Current Focus
-
-- Studying Mechatronics Engineering
-- Building Python projects and automation tools daily
-- Learning Machine Learning and Data Science
-- Exploring Robotics and Embedded Systems with Arduino & ESP32
-- Developing projects that combine hardware and software
-- Contributing to open source projects
 
 ## 🛠️ Technical Skills
 
-**Programming & Data Science**
+### 🐍 Programming & Data Science
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) &nbsp; `Fundamentals` · `Scripting` · `Automation`
 
-`Scripting` · `Automation` · `Linear Algebra` · `Data Cleaning` · `Visualization`
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) &nbsp; `Array Operations` · `Linear Algebra` · `Data Manipulation`
 
-**Hardware & Embedded Systems**
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) &nbsp; `Data Analysis` · `DataFrames` · `Data Cleaning`
+
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white) &nbsp; `Data Visualization` · `Plotting` · `Insight Generation`
+
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) &nbsp; `Interactive Computing` · `Prototyping` · `Data Exploration`
+
+---
+<div align="center">
+
+<span>
+
+**⚡ Hardware**&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**🛠️ Tools**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-
-`Embedded Systems` · `Sensors` · `Microcontrollers` · `IoT`
-
-**Tools**
-
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+</span>
+
+</div>
 
 
-
-## 🔬 Areas of Interest
-
-- 🤖 **Robotics** — Autonomous systems, sensing, and control
-- 🌐 **IoT** — Smart devices and connected ecosystems
-- 🧠 **AI** — Intelligent software and automation
-- 📊 **Machine Learning** — Data-driven insights and prediction
-- ⚡ **Embedded Systems** — Engineering where hardware meets software
-
-
-
-## 📁Recent Repos
-
-🐍 **[21 Python Projects](https://github.com/appiokstella/python-mastery-journey)** — A collection of 21 Python projects from beginner to advanced, documented daily with what I learned from each one.
-
-## 🌱 My Philosophy
-
-I believe in learning by doing and documenting the journey honestly,
-including the bugs, the confusion, and the breakthroughs. Every project
-folder includes a written reflection on what worked, what was hard, and
-what I would build next.
-
-I'd rather show consistent, honest progress than a polished but empty profile.
 
 ## 📈 GitHub Stats
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=appiokstella&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=F0C674"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=appiokstella&theme=github-dark-blue&hide_border=true"/> <br><br>
-</div> 
+</div>
 
-## 🌟 What I Believe
 
-The most impactful technology happens where software, hardware, and human
+## 📁Recent Repos
+
+**[21 Python Projects](https://github.com/appiokstella/python-mastery-journey)** — A collection of 21 Python projects from beginner to advanced, 
+documented daily with what I learned from each one.
+
+
+
+
+---
+
+
+## 🔬 Areas of Interest
+
+- 🤖 **Robotics** — Autonomous systems, sensing, and control
+- 🧠 **AI** — Intelligent software and automation
+- 📊 **Machine Learning** — Data-driven insights and prediction
+
+
+## 🚀 Current Focus
+
+- Learning Machine Learning and Data Science
+- Exploring Robotics with Arduino & ESP32
+- Developing projects that combine hardware and software
+- Contributing to open source projects
+
+
+## 🌟 My Philosophy
+
+I believe the most impactful technology happens where software, hardware, and human
 need intersect. I want to be the kind of engineer who doesn't just understand
 technology but builds things that create real value for real people.
 
@@ -109,8 +105,8 @@ creating technology that solves problems.
 
 </div>
 
-<!-- <div align="center">
+<div align="center">
 
-*Building the future, one project at a time. 🇬🇭🚀*
+###  Building at the Intersection of Hardware & Intelligence
 
-</div> -->
+</div> 
